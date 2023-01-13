@@ -1,11 +1,11 @@
-<?php
+/opt/lampp/htdocs/github/traduccion-espanol-premium-url-shorter/traduccion-espanol-premium-url-shortener/es/app.php<?php
  return [
   'code' => 'es',
   'region' => 'es',
   'name' => 'Español',
-  'author' => 'GemPixel',
-  'link' => 'https://gempixel.com',
-  'date' => '20/08/2022',
+  'author' => 'Jose Luis Hernandez',
+  'link' => 'https://github.com/joseluismktcuba/traduccion-espanol-premium-url-shortener',
+  'date' => '13/01/2023',
   'rtl' => false,
   'data' => [
     'Invalid token. Please try again.' => 'Token no válido. Inténtalo de nuevo.',
