@@ -1897,6 +1897,7 @@
     'Send Email' => 'Envío de email',    
     'Email Templates' => 'Plantillas de email',    
     'URL Shortener' => 'Acortador de enlaces',    
+    'You need to be logged in to access this page.' => 'Necesitas acceder para ver la página',    
     'You have reach the maximum limit for this feature.' => 'Ha alcanzado el límite máximo para esta función.',    
   ]
 ];
