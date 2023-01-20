@@ -1896,6 +1896,7 @@
     'Tools & Emails' => 'Herramientas',    
     'Send Email' => 'Envío de email',    
     'Email Templates' => 'Plantillas de email',    
+    'URL Shortener' => 'Acortador de enlaces',    
     'You have reach the maximum limit for this feature.' => 'Ha alcanzado el límite máximo para esta función.',    
   ]
 ];
