@@ -19,4 +19,4 @@ https://codecanyon.net/item/premium-url-shortener/
 v6.7.3
 
 # Cantidad de string
-1891
+1892

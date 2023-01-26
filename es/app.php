@@ -1022,7 +1022,7 @@
     'Add Link or Content' => 'Agregar enlace o contenido',
     'Facebook' => 'Facebook',
     'Please enter a valid link' => 'Por favor, introduzca un enlace válido',
-    'Twitter' => 'Gorjeo',
+    'Twitter' => 'Twitter',
     'Instagram' => 'Instagram',
     'Tiktok' => 'Tik Tok',
     'Linkedin' => 'LinkedIn',
@@ -1590,7 +1590,7 @@
     'This user does not exist.' => 'Este usuario no existe.',
     '{d} {p} ago' => 'Hace {d} {p}',
     'Content' => 'Contenido',
-    'Telegram' => 'Telegrama',
+    'Telegram' => 'Telegram',
     'Snapchat' => 'Snapchat',
     'Discord' => 'Discordia',
     'Twitch' => 'Contracción nerviosa',
@@ -1898,6 +1898,7 @@
     'Email Templates' => 'Plantillas de email',    
     'URL Shortener' => 'Acortador de enlaces',    
     'You need to be logged in to access this page.' => 'Necesitas acceder para ver la página',    
+    'You are trying to delete a block. Please changes only take effect when you update the bio page.' => 'Está intentando eliminar un bloque. Los cambios solo surtirán efecto cuando actualices la página de biografía.',    
     'You have reach the maximum limit for this feature.' => 'Ha alcanzado el límite máximo para esta función.',    
   ]
 ];
